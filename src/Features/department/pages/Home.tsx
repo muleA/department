@@ -13,7 +13,7 @@ export default class Home extends React.Component{
         return(
             <div style={{minHeight:'50vh',textAlign:'center',marginTop:'10rem'}}>
                 <Title>Welcome to this page.</Title>
-                <Title level={2}>Made with <HeartFilled style={{color:'purple'}}/> by Nabil</Title>
+                <Title level={2}>Made with <HeartFilled style={{color:'purple'}}/> by Mulugeta</Title>
             </div>
         );
     }
